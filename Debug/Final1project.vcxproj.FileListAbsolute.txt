@@ -1,0 +1,7 @@
+C:\Users\Dhruv\Desktop\Final1project\Debug\Final1project.exe
+C:\Users\Dhruv\Desktop\Final1project\Debug\Final1project.pdb
+C:\Users\yesri\Downloads\Final1project\Final1project\Debug\Final1project.exe
+C:\Users\yesri\Downloads\Final1project\Final1project\Debug\Final1project.pdb
+C:\Users\yesri\OneDrive\바탕 화면\Final1project\Final1project\Debug\Final1project.exe
+C:\Users\yesri\OneDrive\바탕 화면\Final1project\Final1project\Debug\Final1project.pdb
+D:\1학년 1학기 part2\ipc144\Final1project(우리조 마지막)\Final1project\Debug\Final1project.exe
